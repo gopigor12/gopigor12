@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<h1>## HEY THERE, HUMAN! 👋 </h1>
+<h1>HEY THERE, HUMAN! 👋 </h1>
 </div>
 
 I’m Gopi Gor, a Graduate Student in Cybersecurity at Fordham University and a passionate cybersecurity professional.With 2 years of experience in the industry, I am dedicated to driving personal growth, continuous learning, and cultivating the well-being of individuals in their journey.
