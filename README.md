@@ -28,3 +28,4 @@ Currently, I'm working as an Intern, Cybersecurity at Sony Music Publishing. Apa
 📫 How to reach me
 - E: gopigor1299@gmail.com
 - P: (917) 345-4255
+- L: www.linkedin.com/in/gopi-gor
