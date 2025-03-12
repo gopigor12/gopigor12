@@ -8,7 +8,7 @@ I’m Gopi Gor, a passionate cybersecurity professional. With 3 years of experie
 
 Apart from my technical knowledge and experience, I'm an individual with exceptional communication skills, helping like-minded people to find their path, and be a leader of their own journey.
 
-**🌎 FUN FACTS ABOUT ME:**
+**🌎 FUN FACTS ABOUT ME:** <p>
 
 🔹 Lived 23 years in Muscat, Oman, 2 years in Mumbai, India, and now exploring the USA!
 🔹 I can speak about 5 different languages!
