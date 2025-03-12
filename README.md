@@ -15,6 +15,7 @@ Apart from my technical knowledge and experience, I'm an individual with excepti
 🔹 Security + Psychology = My Favorite Combo (Cyberpsychology is underrated!)
 🔹 Ask me about my journey, hacking mindsets, and how cybersecurity is like a thriller movie! 🎬
 
+
 **🔥 WHAT I'M CURRENTLY UP TO:**
 
 🛠 Hands-on projects in
@@ -25,12 +26,14 @@ Apart from my technical knowledge and experience, I'm an individual with excepti
 🔹 Comptia CySA+ 
 🔹 GIAC Certified Incident Handler (GCIH)
 
+
 **💡 MY CORE VALUES**
 
 🌱 Growth & Continuous Learning
 😊 Positive Mindset
 🔎 Perspective Matters
 💙 Kindness in Every Interaction
+
 
 **📬 LET’S CONNECT!**
 
