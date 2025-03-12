@@ -13,7 +13,7 @@ Apart from my technical knowledge and experience, I'm an individual with excepti
 🔹 Lived 23 years in Muscat, Oman, 2 years in Mumbai, India, and now exploring the USA! <p>
 🔹 I can speak about 5 different languages! <p>
 🔹 Security + Psychology = My Favorite Combo (Cyberpsychology is underrated!) <p>
-🔹 Ask me about my journey, hacking mindsets, and how cybersecurity is like a thriller movie! 🎬
+🔹 Ask me about my journey, hacking mindsets, and how cybersecurity is like a thriller movie! 🎬 <p> </p>
 
 
 **🔥 WHAT I'M CURRENTLY UP TO:** <p>
