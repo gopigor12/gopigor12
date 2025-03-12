@@ -1,31 +1,39 @@
 
 
 <div align="center">
-<h1>HEY THERE, HUMAN! 👋 </h1>
+<h1> HEY THERE, HUMAN! 👋 </h1>
 </div>
 
-I’m Gopi Gor, a Graduate Student in Cybersecurity at Fordham University and a passionate cybersecurity professional.With 2 years of experience in the industry, I am dedicated to driving personal growth, continuous learning, and cultivating the well-being of individuals in their journey.
+I’m Gopi Gor, a passionate cybersecurity professional. With 3 years of experience in the industry, I am dedicated to driving personal growth, continuous learning, and cultivating the well-being of individuals in their journey.
 
-Currently, I'm working as an Intern, Cybersecurity at Sony Music Publishing. Apart from my technical knowledge and experience, I'm an individual helping like-minded people to find their path, and be a leader of their own journey.
+Apart from my technical knowledge and experience, I'm an individual with exceptional communication skills, helping like-minded people to find their path, and be a leader of their own journey.
 
-⚡ FUN FACT: I've lived almost 23 years of my life in Muscat, Oman; 2 years in Mumbai, India and now the United States!
-💬 Ask me about - My whole journey and learning curve!
+**🌎 FUN FACTS ABOUT ME:**
+🔹 Lived 23 years in Muscat, Oman, 2 years in Mumbai, India, and now exploring the USA!
+🔹 I can speak about 5 different languages!
+🔹 Security + Psychology = My Favorite Combo (Cyberpsychology is underrated!)
 
+🔹 Ask me about my journey, hacking mindsets, and how cybersecurity is like a thriller movie! 🎬
 
-🔭I’m currently learning & working on:
-- Industry-Level Certifications (Security+ & CySA+)
-- Penetration Testing Projects
-- Incident Response Projects
-- Project Management Tools
-- Security Training & Awareness 
+**🔥 WHAT I'M CURRENTLY UP TO:**
+🛠 Hands-on projects in
+🔹 Incident Response & Threat Intelligence
+🔹 Security Awareness & Training (people are the first line of defense!)
+🔹 Project Management & Cyber Strategy
+🎯 Certifications in Progress: 
+🔹 Comptia CySA+ 
+🔹 GIAC Certified Incident Handler (GCIH)
 
-👯 My Core Values are:
-- Growth & Continuous Learning
-- Positive Mindset
-- Perspective
-- Kindness
+**💡 MY CORE VALUES**
+🌱 Growth & Continuous Learning
+😊 Positive Mindset
+🔎 Perspective Matters
+💙 Kindness in Every Interaction
 
-📫 How to reach me
-- E: gopigor1299@gmail.com
-- P: (917) 345-4255
-- L: www.linkedin.com/in/gopi-gor
+**📬 LET’S CONNECT!**
+📧 Email: gopigor1299@gmail.com
+📞 Phone: (917) 345-4255
+💼 LinkedIn: www.linkedin.com/in/gopi-gor
+📝 Blog: Medium - @gopigor21
+🌐 Website: gopigor1299.wixsite.com/gopigor
+
