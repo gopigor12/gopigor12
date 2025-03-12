@@ -16,18 +16,18 @@ Apart from my technical knowledge and experience, I'm an individual with excepti
 🔹 Ask me about my journey, hacking mindsets, and how cybersecurity is like a thriller movie! 🎬
 
 
-**🔥 WHAT I'M CURRENTLY UP TO:**
+**🔥 WHAT I'M CURRENTLY UP TO:** <p>
 
-🛠 Hands-on projects in
+🛠 Hands-on projects in <p> 
 🔹 Incident Response & Threat Intelligence
 🔹 Security Awareness & Training (people are the first line of defense!)
 🔹 Project Management & Cyber Strategy
-🎯 Certifications in Progress: 
+🎯 Certifications in Progress: <p>
 🔹 Comptia CySA+ 
 🔹 GIAC Certified Incident Handler (GCIH)
 
 
-**💡 MY CORE VALUES**
+**💡 MY CORE VALUES** <p>
 
 🌱 Growth & Continuous Learning
 😊 Positive Mindset
@@ -35,7 +35,7 @@ Apart from my technical knowledge and experience, I'm an individual with excepti
 💙 Kindness in Every Interaction
 
 
-**📬 LET’S CONNECT!**
+**📬 LET’S CONNECT!** <p>
 
 📧 Email: gopigor1299@gmail.com
 📞 Phone: (917) 345-4255
