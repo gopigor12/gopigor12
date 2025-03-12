@@ -35,11 +35,15 @@ Apart from my technical knowledge and experience, I'm an individual with excepti
 💙 Kindness in Every Interaction
 
 
-**📬 LET’S CONNECT!** <p>
+## 📬 LET’S CONNECT!  
 
-📧 Email: gopigor1299@gmail.com
-📞 Phone: (917) 345-4255
-💼 LinkedIn: www.linkedin.com/in/gopi-gor
-📝 Blog: Medium - @gopigor21
-🌐 Website: gopigor1299.wixsite.com/gopigor
+📧 **Email:** [gopigor1299@gmail.com](mailto:gopigor1299@gmail.com)  
+
+📞 **Phone:** (917) 345-4255  
+
+💼 **LinkedIn:** [www.linkedin.com/in/gopi-gor](https://www.linkedin.com/in/gopi-gor)  
+
+📝 **Blog:** [Medium - @gopigor21](https://medium.com/@gopigor21)  
+
+🌐 **Website:** [gopigor1299.wixsite.com/gopigor](https://gopigor1299.wixsite.com/gopigor)  
 
