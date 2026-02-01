@@ -32,12 +32,13 @@ Apart from my **technical knowledge and experience**, I have **exceptional commu
 
 🔹 **Project Management & Cyber Strategy**  
 
-🎯 **Certifications in Progress:**  
+🎯 **Certifications I have**  
 
-🔹 **CompTIA CySA+**  
+🔹 **CompTIA: CySA+ (SY0-701)**  
 
-🔹 **GIAC Certified Incident Handler (GCIH)**  
+🔹 **ISC2: Certified in Cybersecurity (CC)**  
 
+🔹 **Google: Google Cybersecurity Certificate**  
 ---
 
 ## 💡 MY CORE VALUES  
