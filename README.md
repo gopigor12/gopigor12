@@ -27,18 +27,15 @@ Apart from my **technical knowledge and experience**, I have **exceptional commu
 🛠 **Hands-on projects in**  
 
 🔹 **Incident Response & Threat Intelligence**  
-
 🔹 **Security Awareness & Training** (*People are the first line of defense!*)  
-
 🔹 **Project Management & Cyber Strategy**  
 
 🎯 **Certifications I have**  
 
 🔹 **CompTIA: CySA+ (SY0-701)**  
-
 🔹 **ISC2: Certified in Cybersecurity (CC)**  
-
 🔹 **Google: Google Cybersecurity Certificate**  
+
 ---
 
 ## 💡 MY CORE VALUES  
